@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MYJOB</string>
+    <string name="enter_email_or_phone_number">Enter email or phone number</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="create_account">Create Account to get Started now!</string>
+    <string name="login">Login</string>
+    <string name="loginDesc">Login Page Logo</string>
+    <string name="enter_username">Enter username</string>
+    <string name="reenter_password">Reenter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_now">Login now</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="select_your_role">Select your role</string>
+    <string name="centerAlign">center_vertical|start</string>
+    <string-array name="role">
+        <item>Job Finder</item>
+        <item>Company</item>
+    </string-array>
+    <string name="selectFile">select a file</string>
+    <string name="Submit">submit</string>
+    <string name="SubmitYourResume">Submit your resume</string>
+    <string name="user_pro_settings">PROFILE SETTINGS</string>
+    <string name="user_help">HELP</string>
+    <string name="user_feedback">FEEDBACK</string>
+    <string name="user_logOut">LOG OUT</string>
+    <string name="user_settings">SETTINGS</string>
+    <string name="user_allBadges">ALL BADGES</string>
+    <string name="AllBadges2">ALL BADGES</string>
+    <string name="user_allBadges2">ALL BADGES</string>
+    <string name="user_settings2">SETTINGS</string>
+    <string name="user_settings4">SETTINGS</string>
+    <string name="user_allBadges4">ALL BADGES</string>
+    <string name="enter_company">Enter Company</string>
+    <string name="posts">Posts</string>
+    <string name="posts_title">Post Title</string>
+    <string name="posts_desc">Enter Content Here</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Search your post</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="self_development_chapters">Self Development Chapters:</string>
+</resources>

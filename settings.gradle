@@ -1,0 +1,3 @@
+
+rootProject.name = "202301_DCS_G1_MYJOB"
+include ':app'
